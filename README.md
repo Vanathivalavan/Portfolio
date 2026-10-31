@@ -356,7 +356,8 @@ https://www.linkedin.com/in/vanathi-t-7a411937b
 </html>
 ```
 ## OUTPUT
-
+![alt text](portfolio/mw1.jpeg)
+![alt text](portfolio/mw2.jpeg)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
